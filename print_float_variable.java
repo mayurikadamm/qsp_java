@@ -2,12 +2,12 @@
 
 class print_float_variable{
 public static void main(String psv[]){
-  float variable=50.78952364;
+  float variable=50.74562f;
 System.out.println(variable);
 }
 }
 
-/*output: 50.78952364
+/*output: 50.74562 
 CT:success
 RT:success
 */
